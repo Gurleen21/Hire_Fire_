@@ -452,7 +452,7 @@ Feature Description and purpose: Salary
 
 
 
-**Output Screenshots
+### Output Screenshots
 
 ![Aspose Words 0c5aa5b8-8363-4085-bc25-097709bdd400 023](https://user-images.githubusercontent.com/76467751/214298995-7b3440a2-f63c-424d-b745-286ac7df9313.png)
 
